@@ -1,1 +1,1 @@
-<h2> AIM: To study flow through Venturimeter. </h2>
+<h2> AIM: To study heat conduction with heat generation in cylinder and sphere. </h2>
