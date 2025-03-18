@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A cylinderical rod with heat generation q of 262 x 106 w/m3 having k = 15 w/m-k diameter 7 mm and length (L) 0.8 m is used to heat the water. If the outer surface temp is at (Ts) 110° C. Find the maximum temperature.",
+      "qid": 1,
+      "option_a": "132.983 C",
+      "option_b": "129.237 C",
+      "option_c": "161.987 C",
+      "option_d": "163.491 C",
+      "correct_option": "d"
+   },
+   {
+      "question": "Consider a sphere of radius 2cm with heat generation of 3 x 108 w/m3. K = 30 w/m-k & outer surface is maintained at 111° C. Calculate the maximum temperature.",
+      "qid": 2,
+      "option_a": "777.66 w",
+      "option_b": "789.78 w",
+      "option_c": "799.31 w",
+      "option_d": "815.32 w",
+      "correct_option": "a"
+   }
+]
